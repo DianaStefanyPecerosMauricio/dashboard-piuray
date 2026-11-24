@@ -103,7 +103,7 @@
       "negativos_p": 0,
       "tmax_menor_tmin": 0,
       "asimetria_p": 0.73,
-      "dias_tmin_bajo_cero": 2326,
+      "dias_tmin_bajo_cero": 382,
       "atipicos_mes_calendario": 16
     },
     "descriptivos": [
@@ -123,49 +123,49 @@
         "variable": "Tmax diaria",
         "unidad": "°C",
         "n": 14610,
-        "media": 20.99,
-        "std": 1.05,
-        "min": 18.22,
-        "q25": 20.32,
-        "mediana": 20.98,
-        "q75": 21.71,
-        "max": 23.74
+        "media": 14.8,
+        "std": 2.04,
+        "min": 4.48,
+        "q25": 13.54,
+        "mediana": 14.83,
+        "q75": 16.14,
+        "max": 22.49
       },
       {
         "variable": "Tmin diaria",
         "unidad": "°C",
         "n": 14610,
-        "media": 4.35,
-        "std": 3.26,
-        "min": -2.63,
-        "q25": 1.08,
-        "mediana": 5.68,
-        "q75": 7.32,
-        "max": 9.04
+        "media": 3.54,
+        "std": 1.57,
+        "min": -4.49,
+        "q25": 2.58,
+        "mediana": 3.6,
+        "q75": 4.62,
+        "max": 8.36
       },
       {
         "variable": "Tmedia diaria",
         "unidad": "°C",
         "n": 14610,
-        "media": 12.67,
-        "std": 1.61,
-        "min": 8.53,
-        "q25": 11.35,
-        "mediana": 13.09,
-        "q75": 13.96,
-        "max": 15.5
+        "media": 9.17,
+        "std": 1.37,
+        "min": 2.65,
+        "q25": 8.3,
+        "mediana": 9.19,
+        "q75": 10.07,
+        "max": 14.12
       },
       {
         "variable": "Amplitud térmica",
         "unidad": "°C",
         "n": 14610,
-        "media": 16.64,
-        "std": 3.61,
-        "min": 10.75,
-        "q25": 13.3,
-        "mediana": 16.09,
-        "q75": 19.95,
-        "max": 23.39
+        "media": 11.27,
+        "std": 2.41,
+        "min": 2.78,
+        "q25": 9.69,
+        "mediana": 11.19,
+        "q75": 12.8,
+        "max": 20.81
       }
     ],
     "atipicos": [
@@ -178,17 +178,17 @@
       },
       {
         "variable": "Tmax diaria",
-        "lim_inf": 18.23,
-        "lim_sup": 23.8,
-        "senalados": 31,
-        "pct": 0.21
+        "lim_inf": 9.64,
+        "lim_sup": 20.04,
+        "senalados": 225,
+        "pct": 1.54
       },
       {
         "variable": "Tmin diaria",
-        "lim_inf": -8.28,
-        "lim_sup": 16.68,
-        "senalados": 0,
-        "pct": 0.0
+        "lim_inf": -0.48,
+        "lim_sup": 7.68,
+        "senalados": 296,
+        "pct": 2.03
       }
     ],
     "ciclo_mensual": [
@@ -196,109 +196,109 @@
         "mes_num": 1,
         "mes": "Ene",
         "P": 151.33,
-        "Tmax": 19.96,
-        "Tmin": 7.63,
-        "Tmedia": 13.8,
-        "Amp": 12.33
+        "Tmax": 14.23,
+        "Tmin": 3.95,
+        "Tmedia": 9.09,
+        "Amp": 10.28
       },
       {
         "mes_num": 2,
         "mes": "Feb",
         "P": 134.96,
-        "Tmax": 19.91,
-        "Tmin": 7.69,
-        "Tmedia": 13.8,
-        "Amp": 12.22
+        "Tmax": 14.14,
+        "Tmin": 3.97,
+        "Tmedia": 9.05,
+        "Amp": 10.17
       },
       {
         "mes_num": 3,
         "mes": "Mar",
         "P": 113.52,
-        "Tmax": 19.96,
-        "Tmin": 7.22,
-        "Tmedia": 13.59,
-        "Amp": 12.74
+        "Tmax": 14.11,
+        "Tmin": 3.78,
+        "Tmedia": 8.94,
+        "Amp": 10.33
       },
       {
         "mes_num": 4,
         "mes": "Abr",
         "P": 34.66,
-        "Tmax": 20.53,
-        "Tmin": 5.29,
-        "Tmedia": 12.91,
-        "Amp": 15.25
+        "Tmax": 13.97,
+        "Tmin": 4.0,
+        "Tmedia": 8.99,
+        "Amp": 9.97
       },
       {
         "mes_num": 5,
         "mes": "May",
         "P": 7.84,
-        "Tmax": 21.18,
-        "Tmin": 1.65,
-        "Tmedia": 11.41,
-        "Amp": 19.53
+        "Tmax": 14.25,
+        "Tmin": 3.58,
+        "Tmedia": 8.91,
+        "Amp": 10.68
       },
       {
         "mes_num": 6,
         "mes": "Jun",
         "P": 4.62,
-        "Tmax": 21.06,
-        "Tmin": -0.3,
-        "Tmedia": 10.38,
-        "Amp": 21.36
+        "Tmax": 14.36,
+        "Tmin": 2.64,
+        "Tmedia": 8.5,
+        "Amp": 11.72
       },
       {
         "mes_num": 7,
         "mes": "Jul",
         "P": 4.07,
-        "Tmax": 20.76,
-        "Tmin": -1.09,
-        "Tmedia": 9.83,
-        "Amp": 21.84
+        "Tmax": 14.74,
+        "Tmin": 2.06,
+        "Tmedia": 8.4,
+        "Amp": 12.68
       },
       {
         "mes_num": 8,
         "mes": "Ago",
         "P": 5.34,
-        "Tmax": 21.51,
-        "Tmin": 0.55,
-        "Tmedia": 11.03,
-        "Amp": 20.96
+        "Tmax": 15.52,
+        "Tmin": 2.68,
+        "Tmedia": 9.1,
+        "Amp": 12.84
       },
       {
         "mes_num": 9,
         "mes": "Set",
         "P": 9.48,
-        "Tmax": 21.71,
-        "Tmin": 3.46,
-        "Tmedia": 12.58,
-        "Amp": 18.25
+        "Tmax": 15.75,
+        "Tmin": 3.61,
+        "Tmedia": 9.68,
+        "Amp": 12.14
       },
       {
         "mes_num": 10,
         "mes": "Oct",
         "P": 48.0,
-        "Tmax": 22.01,
-        "Tmin": 5.86,
-        "Tmedia": 13.94,
-        "Amp": 16.15
+        "Tmax": 15.87,
+        "Tmin": 3.98,
+        "Tmedia": 9.93,
+        "Amp": 11.89
       },
       {
         "mes_num": 11,
         "mes": "Nov",
         "P": 92.64,
-        "Tmax": 22.23,
-        "Tmin": 6.95,
-        "Tmedia": 14.59,
-        "Amp": 15.29
+        "Tmax": 15.75,
+        "Tmin": 4.1,
+        "Tmedia": 9.93,
+        "Amp": 11.64
       },
       {
         "mes_num": 12,
         "mes": "Dic",
         "P": 119.65,
-        "Tmax": 20.96,
-        "Tmin": 7.47,
-        "Tmedia": 14.21,
-        "Amp": 13.5
+        "Tmax": 14.92,
+        "Tmin": 4.13,
+        "Tmedia": 9.53,
+        "Amp": 10.79
       }
     ]
   },
@@ -324,11 +324,11 @@
       }
     ],
     "rf_tuning": {
-      "max_depth": 5,
+      "max_depth": 3,
       "min_samples_leaf": 1,
-      "n_estimators": 200,
-      "rmse_val": 25.21,
-      "r2_oob": 0.79
+      "n_estimators": 500,
+      "rmse_val": 25.87,
+      "r2_oob": 0.776
     },
     "metricas": [
       {
@@ -364,112 +364,112 @@
       {
         "modelo": "Regresión lineal",
         "conjunto": "Train",
-        "mae": 17.972,
-        "rmse": 25.832,
-        "r2_nse": 0.82,
-        "r": 0.906,
-        "pbias": -1.527,
+        "mae": 18.102,
+        "rmse": 26.316,
+        "r2_nse": 0.814,
+        "r": 0.902,
+        "pbias": -1.734,
         "skill": null
       },
       {
         "modelo": "Regresión lineal",
         "conjunto": "Validación",
-        "mae": 17.343,
-        "rmse": 22.755,
-        "r2_nse": 0.848,
-        "r": 0.921,
-        "pbias": 0.66,
+        "mae": 17.886,
+        "rmse": 23.162,
+        "r2_nse": 0.842,
+        "r": 0.918,
+        "pbias": -0.684,
         "skill": null
       },
       {
         "modelo": "Regresión lineal",
         "conjunto": "Prueba",
-        "mae": 20.528,
-        "rmse": 28.591,
-        "r2_nse": 0.765,
-        "r": 0.88,
-        "pbias": -9.025,
-        "skill": -0.047
+        "mae": 20.793,
+        "rmse": 29.473,
+        "r2_nse": 0.75,
+        "r": 0.869,
+        "pbias": -6.957,
+        "skill": -0.08
       },
       {
         "modelo": "Random Forest",
         "conjunto": "Train",
-        "mae": 12.921,
-        "rmse": 19.176,
-        "r2_nse": 0.901,
-        "r": 0.95,
-        "pbias": 0.126,
+        "mae": 16.246,
+        "rmse": 24.58,
+        "r2_nse": 0.837,
+        "r": 0.915,
+        "pbias": -0.025,
         "skill": null
       },
       {
         "modelo": "Random Forest",
         "conjunto": "Validación",
-        "mae": 18.631,
-        "rmse": 25.205,
-        "r2_nse": 0.813,
-        "r": 0.902,
-        "pbias": 1.602,
+        "mae": 18.62,
+        "rmse": 25.866,
+        "r2_nse": 0.803,
+        "r": 0.896,
+        "pbias": 0.969,
         "skill": null
       },
       {
         "modelo": "Random Forest",
         "conjunto": "Prueba",
-        "mae": 19.229,
-        "rmse": 27.652,
+        "mae": 19.149,
+        "rmse": 27.648,
         "r2_nse": 0.78,
         "r": 0.885,
-        "pbias": -5.516,
+        "pbias": -5.451,
         "skill": -0.013
       }
     ],
     "importancias": [
       {
         "variable": "P_lag1",
-        "rf_impureza": 0.0357,
-        "rf_permutacion": 0.35,
-        "lin_coef_std": 5.222
+        "rf_impureza": 0.03,
+        "rf_permutacion": 0.946,
+        "lin_coef_std": 5.029
       },
       {
         "variable": "P_lag2",
-        "rf_impureza": 0.0316,
-        "rf_permutacion": 0.967,
-        "lin_coef_std": 0.333
+        "rf_impureza": 0.0187,
+        "rf_permutacion": 0.65,
+        "lin_coef_std": -1.492
       },
       {
         "variable": "P_lag3",
-        "rf_impureza": 0.0139,
-        "rf_permutacion": -0.337,
-        "lin_coef_std": -5.336
+        "rf_impureza": 0.0038,
+        "rf_permutacion": -0.045,
+        "lin_coef_std": -9.371
       },
       {
         "variable": "P_lag12",
-        "rf_impureza": 0.5778,
-        "rf_permutacion": 10.191,
-        "lin_coef_std": 11.63
+        "rf_impureza": 0.6174,
+        "rf_permutacion": 13.928,
+        "lin_coef_std": 14.825
       },
       {
         "variable": "Tmedia_lag1",
-        "rf_impureza": 0.0173,
-        "rf_permutacion": 0.778,
-        "lin_coef_std": -9.799
+        "rf_impureza": 0.0025,
+        "rf_permutacion": 0.0,
+        "lin_coef_std": -2.225
       },
       {
         "variable": "Amp_lag1",
-        "rf_impureza": 0.0176,
-        "rf_permutacion": -0.096,
-        "lin_coef_std": 10.204
+        "rf_impureza": 0.0015,
+        "rf_permutacion": -0.043,
+        "lin_coef_std": -1.106
       },
       {
         "variable": "mes_sin",
-        "rf_impureza": 0.0444,
-        "rf_permutacion": 2.658,
-        "lin_coef_std": 36.943
+        "rf_impureza": 0.0481,
+        "rf_permutacion": 2.692,
+        "lin_coef_std": 24.801
       },
       {
         "variable": "mes_cos",
-        "rf_impureza": 0.2617,
-        "rf_permutacion": 20.746,
-        "lin_coef_std": 42.808
+        "rf_impureza": 0.278,
+        "rf_permutacion": 18.102,
+        "lin_coef_std": 29.498
       }
     ]
   },
@@ -482,14 +482,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 147.99,
       "naive": 155.18,
-      "lineal": 146.15,
-      "rf": 140.72,
+      "lineal": 140.63,
+      "rf": 135.08,
       "err_naive": 7.19,
-      "err_rf": -7.27,
+      "err_rf": -12.91,
       "P_lag1": 173.67,
       "P_lag12": 138.52,
-      "Tmedia_lag1": 14.18,
-      "Amp_lag1": 13.48
+      "Tmedia_lag1": 9.02,
+      "Amp_lag1": 10.46
     },
     {
       "fecha": "2020-02",
@@ -499,14 +499,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 191.69,
       "naive": 136.19,
-      "lineal": 138.19,
-      "rf": 146.71,
+      "lineal": 130.16,
+      "rf": 141.71,
       "err_naive": -55.5,
-      "err_rf": -44.98,
+      "err_rf": -49.98,
       "P_lag1": 147.99,
       "P_lag12": 161.94,
-      "Tmedia_lag1": 13.77,
-      "Amp_lag1": 12.3
+      "Tmedia_lag1": 9.17,
+      "Amp_lag1": 9.44
     },
     {
       "fecha": "2020-03",
@@ -516,14 +516,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 110.86,
       "naive": 114.53,
-      "lineal": 111.62,
-      "rf": 136.75,
+      "lineal": 108.97,
+      "rf": 132.03,
       "err_naive": 3.67,
-      "err_rf": 25.89,
+      "err_rf": 21.17,
       "P_lag1": 191.69,
       "P_lag12": 141.53,
-      "Tmedia_lag1": 13.79,
-      "Amp_lag1": 12.19
+      "Tmedia_lag1": 9.06,
+      "Amp_lag1": 9.53
     },
     {
       "fecha": "2020-04",
@@ -533,14 +533,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 22.03,
       "naive": 35.43,
-      "lineal": 50.89,
-      "rf": 37.74,
+      "lineal": 51.11,
+      "rf": 35.83,
       "err_naive": 13.4,
-      "err_rf": 15.71,
+      "err_rf": 13.8,
       "P_lag1": 110.86,
       "P_lag12": 29.48,
-      "Tmedia_lag1": 13.58,
-      "Amp_lag1": 12.73
+      "Tmedia_lag1": 9.27,
+      "Amp_lag1": 9.76
     },
     {
       "fecha": "2020-05",
@@ -550,14 +550,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 11.23,
       "naive": 6.67,
-      "lineal": 6.44,
-      "rf": 10.92,
+      "lineal": 7.17,
+      "rf": 8.64,
       "err_naive": -4.56,
-      "err_rf": -0.31,
+      "err_rf": -2.59,
       "P_lag1": 22.03,
       "P_lag12": 16.88,
-      "Tmedia_lag1": 12.89,
-      "Amp_lag1": 15.24
+      "Tmedia_lag1": 9.45,
+      "Amp_lag1": 9.76
     },
     {
       "fecha": "2020-06",
@@ -568,13 +568,13 @@
       "observado": 5.4,
       "naive": 4.79,
       "lineal": 0.0,
-      "rf": 5.15,
+      "rf": 6.2,
       "err_naive": -0.61,
-      "err_rf": -0.25,
+      "err_rf": 0.8,
       "P_lag1": 11.23,
       "P_lag12": 2.72,
-      "Tmedia_lag1": 11.39,
-      "Amp_lag1": 19.61
+      "Tmedia_lag1": 8.52,
+      "Amp_lag1": 11.82
     },
     {
       "fecha": "2020-07",
@@ -585,13 +585,13 @@
       "observado": 1.59,
       "naive": 4.53,
       "lineal": 0.0,
-      "rf": 4.99,
+      "rf": 6.2,
       "err_naive": 2.94,
-      "err_rf": 3.4,
+      "err_rf": 4.61,
       "P_lag1": 5.4,
       "P_lag12": 3.54,
-      "Tmedia_lag1": 10.37,
-      "Amp_lag1": 21.33
+      "Tmedia_lag1": 8.72,
+      "Amp_lag1": 10.73
     },
     {
       "fecha": "2020-08",
@@ -601,14 +601,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 0.65,
       "naive": 5.91,
-      "lineal": 4.66,
-      "rf": 5.08,
+      "lineal": 0.0,
+      "rf": 6.13,
       "err_naive": 5.26,
-      "err_rf": 4.43,
+      "err_rf": 5.48,
       "P_lag1": 1.59,
       "P_lag12": 0.1,
-      "Tmedia_lag1": 9.84,
-      "Amp_lag1": 21.85
+      "Tmedia_lag1": 9.45,
+      "Amp_lag1": 11.87
     },
     {
       "fecha": "2020-09",
@@ -618,14 +618,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 2.87,
       "naive": 9.79,
-      "lineal": 19.46,
-      "rf": 7.69,
+      "lineal": 13.44,
+      "rf": 6.76,
       "err_naive": 6.92,
-      "err_rf": 4.82,
+      "err_rf": 3.89,
       "P_lag1": 0.65,
       "P_lag12": 4.24,
-      "Tmedia_lag1": 10.99,
-      "Amp_lag1": 20.87
+      "Tmedia_lag1": 9.74,
+      "Amp_lag1": 13.21
     },
     {
       "fecha": "2020-10",
@@ -635,14 +635,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 27.88,
       "naive": 51.07,
-      "lineal": 53.65,
-      "rf": 58.03,
+      "lineal": 57.41,
+      "rf": 65.83,
       "err_naive": 23.19,
-      "err_rf": 30.15,
+      "err_rf": 37.95,
       "P_lag1": 2.87,
       "P_lag12": 71.02,
-      "Tmedia_lag1": 12.51,
-      "Amp_lag1": 18.24
+      "Tmedia_lag1": 9.87,
+      "Amp_lag1": 11.61
     },
     {
       "fecha": "2020-11",
@@ -652,14 +652,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 57.1,
       "naive": 91.1,
-      "lineal": 97.0,
-      "rf": 77.8,
+      "lineal": 104.21,
+      "rf": 89.07,
       "err_naive": 34.0,
-      "err_rf": 20.7,
+      "err_rf": 31.97,
       "P_lag1": 27.88,
       "P_lag12": 144.81,
-      "Tmedia_lag1": 13.9,
-      "Amp_lag1": 16.09
+      "Tmedia_lag1": 10.2,
+      "Amp_lag1": 12.39
     },
     {
       "fecha": "2020-12",
@@ -669,14 +669,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 146.04,
       "naive": 118.5,
-      "lineal": 132.82,
-      "rf": 115.08,
+      "lineal": 133.78,
+      "rf": 122.29,
       "err_naive": -27.54,
-      "err_rf": -30.96,
+      "err_rf": -23.75,
       "P_lag1": 57.1,
       "P_lag12": 173.67,
-      "Tmedia_lag1": 14.55,
-      "Amp_lag1": 15.19
+      "Tmedia_lag1": 10.91,
+      "Amp_lag1": 12.48
     },
     {
       "fecha": "2021-01",
@@ -686,14 +686,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 125.0,
       "naive": 155.18,
-      "lineal": 148.93,
-      "rf": 148.51,
+      "lineal": 150.69,
+      "rf": 137.15,
       "err_naive": 30.18,
-      "err_rf": 23.51,
+      "err_rf": 12.15,
       "P_lag1": 146.04,
       "P_lag12": 147.99,
-      "Tmedia_lag1": 14.18,
-      "Amp_lag1": 13.48
+      "Tmedia_lag1": 8.53,
+      "Amp_lag1": 10.76
     },
     {
       "fecha": "2021-02",
@@ -703,14 +703,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 114.45,
       "naive": 136.19,
-      "lineal": 149.57,
-      "rf": 135.76,
+      "lineal": 152.27,
+      "rf": 139.41,
       "err_naive": 21.74,
-      "err_rf": 21.31,
+      "err_rf": 24.96,
       "P_lag1": 125.0,
       "P_lag12": 191.69,
-      "Tmedia_lag1": 13.77,
-      "Amp_lag1": 12.3
+      "Tmedia_lag1": 8.37,
+      "Amp_lag1": 9.42
     },
     {
       "fecha": "2021-03",
@@ -720,14 +720,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 93.9,
       "naive": 114.53,
-      "lineal": 101.33,
-      "rf": 123.25,
+      "lineal": 100.68,
+      "rf": 127.34,
       "err_naive": 20.63,
-      "err_rf": 29.35,
+      "err_rf": 33.44,
       "P_lag1": 114.45,
       "P_lag12": 110.86,
-      "Tmedia_lag1": 13.79,
-      "Amp_lag1": 12.19
+      "Tmedia_lag1": 8.69,
+      "Amp_lag1": 9.79
     },
     {
       "fecha": "2021-04",
@@ -737,14 +737,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 47.95,
       "naive": 35.43,
-      "lineal": 49.59,
-      "rf": 37.97,
+      "lineal": 55.88,
+      "rf": 34.8,
       "err_naive": -12.52,
-      "err_rf": -9.98,
+      "err_rf": -13.15,
       "P_lag1": 93.9,
       "P_lag12": 22.03,
-      "Tmedia_lag1": 13.58,
-      "Amp_lag1": 12.73
+      "Tmedia_lag1": 8.2,
+      "Amp_lag1": 10.39
     },
     {
       "fecha": "2021-05",
@@ -754,14 +754,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 7.84,
       "naive": 6.67,
-      "lineal": 14.33,
-      "rf": 6.63,
+      "lineal": 22.9,
+      "rf": 6.3,
       "err_naive": -1.17,
-      "err_rf": -1.21,
+      "err_rf": -1.54,
       "P_lag1": 47.95,
       "P_lag12": 11.23,
-      "Tmedia_lag1": 12.89,
-      "Amp_lag1": 15.24
+      "Tmedia_lag1": 8.7,
+      "Amp_lag1": 9.37
     },
     {
       "fecha": "2021-06",
@@ -771,14 +771,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 6.49,
       "naive": 4.79,
-      "lineal": 0.0,
-      "rf": 5.2,
+      "lineal": 0.31,
+      "rf": 6.2,
       "err_naive": -1.7,
-      "err_rf": -1.29,
+      "err_rf": -0.29,
       "P_lag1": 7.84,
       "P_lag12": 5.4,
-      "Tmedia_lag1": 11.39,
-      "Amp_lag1": 19.61
+      "Tmedia_lag1": 8.17,
+      "Amp_lag1": 9.97
     },
     {
       "fecha": "2021-07",
@@ -789,13 +789,13 @@
       "observado": 1.22,
       "naive": 4.53,
       "lineal": 0.0,
-      "rf": 4.57,
+      "rf": 6.16,
       "err_naive": 3.31,
-      "err_rf": 3.35,
+      "err_rf": 4.94,
       "P_lag1": 6.49,
       "P_lag12": 1.59,
-      "Tmedia_lag1": 10.37,
-      "Amp_lag1": 21.33
+      "Tmedia_lag1": 8.33,
+      "Amp_lag1": 10.06
     },
     {
       "fecha": "2021-08",
@@ -805,14 +805,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 1.15,
       "naive": 5.91,
-      "lineal": 5.04,
-      "rf": 5.98,
+      "lineal": 0.85,
+      "rf": 6.33,
       "err_naive": 4.76,
-      "err_rf": 4.83,
+      "err_rf": 5.18,
       "P_lag1": 1.22,
       "P_lag12": 0.65,
-      "Tmedia_lag1": 9.84,
-      "Amp_lag1": 21.85
+      "Tmedia_lag1": 8.14,
+      "Amp_lag1": 12.93
     },
     {
       "fecha": "2021-09",
@@ -822,14 +822,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 3.1,
       "naive": 9.79,
-      "lineal": 19.14,
-      "rf": 8.88,
+      "lineal": 14.92,
+      "rf": 6.73,
       "err_naive": 6.69,
-      "err_rf": 5.78,
+      "err_rf": 3.63,
       "P_lag1": 1.15,
       "P_lag12": 2.87,
-      "Tmedia_lag1": 10.99,
-      "Amp_lag1": 20.87
+      "Tmedia_lag1": 9.24,
+      "Amp_lag1": 12.7
     },
     {
       "fecha": "2021-10",
@@ -839,14 +839,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 39.06,
       "naive": 51.07,
-      "lineal": 45.35,
-      "rf": 54.0,
+      "lineal": 46.01,
+      "rf": 48.42,
       "err_naive": 12.01,
-      "err_rf": 14.94,
+      "err_rf": 9.36,
       "P_lag1": 3.1,
       "P_lag12": 27.88,
-      "Tmedia_lag1": 12.51,
-      "Amp_lag1": 18.24
+      "Tmedia_lag1": 10.21,
+      "Amp_lag1": 11.42
     },
     {
       "fecha": "2021-11",
@@ -856,14 +856,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 129.06,
       "naive": 91.1,
-      "lineal": 80.94,
-      "rf": 69.1,
+      "lineal": 81.95,
+      "rf": 64.86,
       "err_naive": -37.96,
-      "err_rf": -59.96,
+      "err_rf": -64.2,
       "P_lag1": 39.06,
       "P_lag12": 57.1,
-      "Tmedia_lag1": 13.9,
-      "Amp_lag1": 16.09
+      "Tmedia_lag1": 10.69,
+      "Amp_lag1": 12.44
     },
     {
       "fecha": "2021-12",
@@ -873,14 +873,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 103.68,
       "naive": 118.5,
-      "lineal": 133.73,
-      "rf": 126.92,
+      "lineal": 136.81,
+      "rf": 129.63,
       "err_naive": 14.82,
-      "err_rf": 23.24,
+      "err_rf": 25.95,
       "P_lag1": 129.06,
       "P_lag12": 146.04,
-      "Tmedia_lag1": 14.55,
-      "Amp_lag1": 15.19
+      "Tmedia_lag1": 9.97,
+      "Amp_lag1": 10.93
     },
     {
       "fecha": "2022-01",
@@ -890,14 +890,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 186.74,
       "naive": 155.18,
-      "lineal": 140.22,
-      "rf": 134.39,
+      "lineal": 134.53,
+      "rf": 131.63,
       "err_naive": -31.56,
-      "err_rf": -52.35,
+      "err_rf": -55.11,
       "P_lag1": 103.68,
       "P_lag12": 125.0,
-      "Tmedia_lag1": 14.18,
-      "Amp_lag1": 13.48
+      "Tmedia_lag1": 9.79,
+      "Amp_lag1": 10.52
     },
     {
       "fecha": "2022-02",
@@ -907,14 +907,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 131.66,
       "naive": 136.19,
-      "lineal": 133.35,
-      "rf": 136.25,
+      "lineal": 123.63,
+      "rf": 134.0,
       "err_naive": 4.53,
-      "err_rf": 4.59,
+      "err_rf": 2.34,
       "P_lag1": 186.74,
       "P_lag12": 114.45,
-      "Tmedia_lag1": 13.77,
-      "Amp_lag1": 12.3
+      "Tmedia_lag1": 9.48,
+      "Amp_lag1": 10.86
     },
     {
       "fecha": "2022-03",
@@ -924,14 +924,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 118.38,
       "naive": 114.53,
-      "lineal": 103.62,
-      "rf": 113.71,
+      "lineal": 102.36,
+      "rf": 120.58,
       "err_naive": -3.85,
-      "err_rf": -4.67,
+      "err_rf": 2.2,
       "P_lag1": 131.66,
       "P_lag12": 93.9,
-      "Tmedia_lag1": 13.79,
-      "Amp_lag1": 12.19
+      "Tmedia_lag1": 8.94,
+      "Amp_lag1": 9.66
     },
     {
       "fecha": "2022-04",
@@ -941,14 +941,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 11.5,
       "naive": 35.43,
-      "lineal": 51.36,
-      "rf": 28.64,
+      "lineal": 53.09,
+      "rf": 35.55,
       "err_naive": 23.93,
-      "err_rf": 17.14,
+      "err_rf": 24.05,
       "P_lag1": 118.38,
       "P_lag12": 47.95,
-      "Tmedia_lag1": 13.58,
-      "Amp_lag1": 12.73
+      "Tmedia_lag1": 8.7,
+      "Amp_lag1": 10.11
     },
     {
       "fecha": "2022-05",
@@ -958,14 +958,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 1.65,
       "naive": 6.67,
-      "lineal": 9.14,
-      "rf": 5.31,
+      "lineal": 13.1,
+      "rf": 6.17,
       "err_naive": 5.02,
-      "err_rf": 3.66,
+      "err_rf": 4.52,
       "P_lag1": 11.5,
       "P_lag12": 7.84,
-      "Tmedia_lag1": 12.89,
-      "Amp_lag1": 15.24
+      "Tmedia_lag1": 9.55,
+      "Amp_lag1": 9.56
     },
     {
       "fecha": "2022-06",
@@ -976,13 +976,13 @@
       "observado": 2.05,
       "naive": 4.79,
       "lineal": 0.0,
-      "rf": 5.11,
+      "rf": 6.16,
       "err_naive": 2.74,
-      "err_rf": 3.06,
+      "err_rf": 4.11,
       "P_lag1": 1.65,
       "P_lag12": 6.49,
-      "Tmedia_lag1": 11.39,
-      "Amp_lag1": 19.61
+      "Tmedia_lag1": 9.01,
+      "Amp_lag1": 10.25
     },
     {
       "fecha": "2022-07",
@@ -993,13 +993,13 @@
       "observado": 1.04,
       "naive": 4.53,
       "lineal": 0.0,
-      "rf": 5.06,
+      "rf": 6.31,
       "err_naive": 3.49,
-      "err_rf": 4.02,
+      "err_rf": 5.27,
       "P_lag1": 2.05,
       "P_lag12": 1.22,
-      "Tmedia_lag1": 10.37,
-      "Amp_lag1": 21.33
+      "Tmedia_lag1": 7.71,
+      "Amp_lag1": 12.7
     },
     {
       "fecha": "2022-08",
@@ -1009,14 +1009,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 4.1,
       "naive": 5.91,
-      "lineal": 5.65,
-      "rf": 6.74,
+      "lineal": 0.0,
+      "rf": 6.21,
       "err_naive": 1.81,
-      "err_rf": 2.64,
+      "err_rf": 2.11,
       "P_lag1": 1.04,
       "P_lag12": 1.15,
-      "Tmedia_lag1": 9.84,
-      "Amp_lag1": 21.85
+      "Tmedia_lag1": 9.79,
+      "Amp_lag1": 11.71
     },
     {
       "fecha": "2022-09",
@@ -1026,14 +1026,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 10.01,
       "naive": 9.79,
-      "lineal": 19.83,
-      "rf": 7.5,
+      "lineal": 14.44,
+      "rf": 6.73,
       "err_naive": -0.22,
-      "err_rf": -2.51,
+      "err_rf": -3.28,
       "P_lag1": 4.1,
       "P_lag12": 3.1,
-      "Tmedia_lag1": 10.99,
-      "Amp_lag1": 20.87
+      "Tmedia_lag1": 9.71,
+      "Amp_lag1": 12.81
     },
     {
       "fecha": "2022-10",
@@ -1043,14 +1043,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 2.26,
       "naive": 51.07,
-      "lineal": 48.14,
-      "rf": 49.75,
+      "lineal": 47.53,
+      "rf": 48.78,
       "err_naive": 48.81,
-      "err_rf": 47.49,
+      "err_rf": 46.52,
       "P_lag1": 10.01,
       "P_lag12": 39.06,
-      "Tmedia_lag1": 12.51,
-      "Amp_lag1": 18.24
+      "Tmedia_lag1": 10.62,
+      "Amp_lag1": 12.05
     },
     {
       "fecha": "2022-11",
@@ -1060,14 +1060,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 47.29,
       "naive": 91.1,
-      "lineal": 91.47,
-      "rf": 89.46,
+      "lineal": 93.63,
+      "rf": 96.98,
       "err_naive": 43.81,
-      "err_rf": 42.17,
+      "err_rf": 49.69,
       "P_lag1": 2.26,
       "P_lag12": 129.06,
-      "Tmedia_lag1": 13.9,
-      "Amp_lag1": 16.09
+      "Tmedia_lag1": 11.45,
+      "Amp_lag1": 12.61
     },
     {
       "fecha": "2022-12",
@@ -1077,14 +1077,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 73.96,
       "naive": 118.5,
-      "lineal": 117.65,
-      "rf": 97.92,
+      "lineal": 111.68,
+      "rf": 101.68,
       "err_naive": 44.54,
-      "err_rf": 23.96,
+      "err_rf": 27.72,
       "P_lag1": 47.29,
       "P_lag12": 103.68,
-      "Tmedia_lag1": 14.55,
-      "Amp_lag1": 15.19
+      "Tmedia_lag1": 11.76,
+      "Amp_lag1": 13.61
     },
     {
       "fecha": "2023-01",
@@ -1094,14 +1094,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 80.93,
       "naive": 155.18,
-      "lineal": 152.42,
-      "rf": 134.58,
+      "lineal": 153.79,
+      "rf": 134.5,
       "err_naive": 74.25,
-      "err_rf": 53.65,
+      "err_rf": 53.57,
       "P_lag1": 73.96,
       "P_lag12": 186.74,
-      "Tmedia_lag1": 14.18,
-      "Amp_lag1": 13.48
+      "Tmedia_lag1": 10.12,
+      "Amp_lag1": 10.85
     },
     {
       "fecha": "2023-02",
@@ -1111,14 +1111,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 95.83,
       "naive": 136.19,
-      "lineal": 134.61,
-      "rf": 131.88,
+      "lineal": 131.36,
+      "rf": 127.6,
       "err_naive": 40.36,
-      "err_rf": 36.05,
+      "err_rf": 31.77,
       "P_lag1": 80.93,
       "P_lag12": 131.66,
-      "Tmedia_lag1": 13.77,
-      "Amp_lag1": 12.3
+      "Tmedia_lag1": 9.55,
+      "Amp_lag1": 11.89
     },
     {
       "fecha": "2023-03",
@@ -1128,14 +1128,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 86.8,
       "naive": 114.53,
-      "lineal": 107.31,
-      "rf": 122.77,
+      "lineal": 109.13,
+      "rf": 126.55,
       "err_naive": 27.73,
-      "err_rf": 35.97,
+      "err_rf": 39.75,
       "P_lag1": 95.83,
       "P_lag12": 118.38,
-      "Tmedia_lag1": 13.79,
-      "Amp_lag1": 12.19
+      "Tmedia_lag1": 9.7,
+      "Amp_lag1": 11.09
     },
     {
       "fecha": "2023-04",
@@ -1145,14 +1145,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 29.85,
       "naive": 35.43,
-      "lineal": 50.74,
-      "rf": 38.41,
+      "lineal": 55.26,
+      "rf": 31.26,
       "err_naive": 5.58,
-      "err_rf": 8.56,
+      "err_rf": 1.41,
       "P_lag1": 86.8,
       "P_lag12": 11.5,
-      "Tmedia_lag1": 13.58,
-      "Amp_lag1": 12.73
+      "Tmedia_lag1": 9.46,
+      "Amp_lag1": 11.52
     },
     {
       "fecha": "2023-05",
@@ -1162,14 +1162,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 46.74,
       "naive": 6.67,
-      "lineal": 12.52,
-      "rf": 6.62,
+      "lineal": 17.06,
+      "rf": 6.16,
       "err_naive": -40.07,
-      "err_rf": -40.12,
+      "err_rf": -40.58,
       "P_lag1": 29.85,
       "P_lag12": 1.65,
-      "Tmedia_lag1": 12.89,
-      "Amp_lag1": 15.24
+      "Tmedia_lag1": 9.76,
+      "Amp_lag1": 11.47
     },
     {
       "fecha": "2023-06",
@@ -1179,14 +1179,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 0.13,
       "naive": 4.79,
-      "lineal": 1.65,
-      "rf": 7.18,
+      "lineal": 0.0,
+      "rf": 6.27,
       "err_naive": 4.66,
-      "err_rf": 7.05,
+      "err_rf": 6.14,
       "P_lag1": 46.74,
       "P_lag12": 2.05,
-      "Tmedia_lag1": 11.39,
-      "Amp_lag1": 19.61
+      "Tmedia_lag1": 9.84,
+      "Amp_lag1": 11.3
     },
     {
       "fecha": "2023-07",
@@ -1197,13 +1197,13 @@
       "observado": 0.3,
       "naive": 4.53,
       "lineal": 0.0,
-      "rf": 4.72,
+      "rf": 6.23,
       "err_naive": 4.23,
-      "err_rf": 4.42,
+      "err_rf": 5.93,
       "P_lag1": 0.13,
       "P_lag12": 1.04,
-      "Tmedia_lag1": 10.37,
-      "Amp_lag1": 21.33
+      "Tmedia_lag1": 9.64,
+      "Amp_lag1": 13.1
     },
     {
       "fecha": "2023-08",
@@ -1213,14 +1213,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 0.4,
       "naive": 5.91,
-      "lineal": 2.15,
-      "rf": 5.21,
+      "lineal": 0.0,
+      "rf": 6.34,
       "err_naive": 5.51,
-      "err_rf": 4.81,
+      "err_rf": 5.94,
       "P_lag1": 0.3,
       "P_lag12": 4.1,
-      "Tmedia_lag1": 9.84,
-      "Amp_lag1": 21.85
+      "Tmedia_lag1": 11.13,
+      "Amp_lag1": 13.21
     },
     {
       "fecha": "2023-09",
@@ -1230,14 +1230,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 13.95,
       "naive": 9.79,
-      "lineal": 21.02,
-      "rf": 8.88,
+      "lineal": 13.96,
+      "rf": 6.78,
       "err_naive": -4.16,
-      "err_rf": -5.07,
+      "err_rf": -7.17,
       "P_lag1": 0.4,
       "P_lag12": 10.01,
-      "Tmedia_lag1": 10.99,
-      "Amp_lag1": 20.87
+      "Tmedia_lag1": 10.52,
+      "Amp_lag1": 12.65
     },
     {
       "fecha": "2023-10",
@@ -1247,14 +1247,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 39.23,
       "naive": 51.07,
-      "lineal": 41.4,
-      "rf": 52.84,
+      "lineal": 39.98,
+      "rf": 47.43,
       "err_naive": 11.84,
-      "err_rf": 13.61,
+      "err_rf": 8.2,
       "P_lag1": 13.95,
       "P_lag12": 2.26,
-      "Tmedia_lag1": 12.51,
-      "Amp_lag1": 18.24
+      "Tmedia_lag1": 10.46,
+      "Amp_lag1": 11.46
     },
     {
       "fecha": "2023-11",
@@ -1264,14 +1264,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 122.7,
       "naive": 91.1,
-      "lineal": 79.18,
-      "rf": 73.25,
+      "lineal": 77.66,
+      "rf": 70.45,
       "err_naive": -31.6,
-      "err_rf": -49.45,
+      "err_rf": -52.25,
       "P_lag1": 39.23,
       "P_lag12": 47.29,
-      "Tmedia_lag1": 13.9,
-      "Amp_lag1": 16.09
+      "Tmedia_lag1": 11.33,
+      "Amp_lag1": 12.3
     },
     {
       "fecha": "2023-12",
@@ -1281,14 +1281,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 199.11,
       "naive": 118.5,
-      "lineal": 118.26,
-      "rf": 112.86,
+      "lineal": 111.68,
+      "rf": 117.5,
       "err_naive": -80.61,
-      "err_rf": -86.25,
+      "err_rf": -81.61,
       "P_lag1": 122.7,
       "P_lag12": 73.96,
-      "Tmedia_lag1": 14.55,
-      "Amp_lag1": 15.19
+      "Tmedia_lag1": 11.43,
+      "Amp_lag1": 11.86
     },
     {
       "fecha": "2024-01",
@@ -1298,14 +1298,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 104.5,
       "naive": 155.18,
-      "lineal": 139.88,
-      "rf": 124.57,
+      "lineal": 130.55,
+      "rf": 122.73,
       "err_naive": 50.68,
-      "err_rf": 20.07,
+      "err_rf": 18.23,
       "P_lag1": 199.11,
       "P_lag12": 80.93,
-      "Tmedia_lag1": 14.18,
-      "Amp_lag1": 13.48
+      "Tmedia_lag1": 10.14,
+      "Amp_lag1": 10.7
     },
     {
       "fecha": "2024-02",
@@ -1315,14 +1315,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 98.32,
       "naive": 136.19,
-      "lineal": 123.72,
-      "rf": 133.5,
+      "lineal": 107.37,
+      "rf": 124.33,
       "err_naive": 37.87,
-      "err_rf": 35.18,
+      "err_rf": 26.01,
       "P_lag1": 104.5,
       "P_lag12": 95.83,
-      "Tmedia_lag1": 13.77,
-      "Amp_lag1": 12.3
+      "Tmedia_lag1": 10.67,
+      "Amp_lag1": 10.85
     },
     {
       "fecha": "2024-03",
@@ -1332,14 +1332,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 122.5,
       "naive": 114.53,
-      "lineal": 90.46,
-      "rf": 112.6,
+      "lineal": 80.56,
+      "rf": 115.56,
       "err_naive": -7.97,
-      "err_rf": -9.9,
+      "err_rf": -6.94,
       "P_lag1": 98.32,
       "P_lag12": 86.8,
-      "Tmedia_lag1": 13.79,
-      "Amp_lag1": 12.19
+      "Tmedia_lag1": 10.02,
+      "Amp_lag1": 11.08
     },
     {
       "fecha": "2024-04",
@@ -1349,14 +1349,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 34.77,
       "naive": 35.43,
-      "lineal": 55.31,
-      "rf": 41.03,
+      "lineal": 57.08,
+      "rf": 36.38,
       "err_naive": 0.66,
-      "err_rf": 6.26,
+      "err_rf": 1.61,
       "P_lag1": 122.5,
       "P_lag12": 29.85,
-      "Tmedia_lag1": 13.58,
-      "Amp_lag1": 12.73
+      "Tmedia_lag1": 10.46,
+      "Amp_lag1": 10.5
     },
     {
       "fecha": "2024-05",
@@ -1366,14 +1366,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 12.89,
       "naive": 6.67,
-      "lineal": 21.65,
-      "rf": 13.98,
+      "lineal": 26.26,
+      "rf": 12.88,
       "err_naive": -6.22,
-      "err_rf": 1.09,
+      "err_rf": -0.01,
       "P_lag1": 34.77,
       "P_lag12": 46.74,
-      "Tmedia_lag1": 12.89,
-      "Amp_lag1": 15.24
+      "Tmedia_lag1": 10.66,
+      "Amp_lag1": 9.81
     },
     {
       "fecha": "2024-06",
@@ -1384,13 +1384,13 @@
       "observado": 3.04,
       "naive": 4.79,
       "lineal": 0.0,
-      "rf": 4.59,
+      "rf": 6.1,
       "err_naive": 1.75,
-      "err_rf": 1.55,
+      "err_rf": 3.06,
       "P_lag1": 12.89,
       "P_lag12": 0.13,
-      "Tmedia_lag1": 11.39,
-      "Amp_lag1": 19.61
+      "Tmedia_lag1": 10.8,
+      "Amp_lag1": 11.93
     },
     {
       "fecha": "2024-07",
@@ -1401,13 +1401,13 @@
       "observado": 0.11,
       "naive": 4.53,
       "lineal": 0.0,
-      "rf": 4.41,
+      "rf": 6.21,
       "err_naive": 4.42,
-      "err_rf": 4.3,
+      "err_rf": 6.1,
       "P_lag1": 3.04,
       "P_lag12": 0.3,
-      "Tmedia_lag1": 10.37,
-      "Amp_lag1": 21.33
+      "Tmedia_lag1": 10.5,
+      "Amp_lag1": 12.57
     },
     {
       "fecha": "2024-08",
@@ -1417,14 +1417,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 0.63,
       "naive": 5.91,
-      "lineal": 4.43,
-      "rf": 5.49,
+      "lineal": 0.0,
+      "rf": 6.37,
       "err_naive": 5.28,
-      "err_rf": 4.86,
+      "err_rf": 5.74,
       "P_lag1": 0.11,
       "P_lag12": 0.4,
-      "Tmedia_lag1": 9.84,
-      "Amp_lag1": 21.85
+      "Tmedia_lag1": 9.46,
+      "Amp_lag1": 13.68
     },
     {
       "fecha": "2024-09",
@@ -1434,14 +1434,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 6.44,
       "naive": 9.79,
-      "lineal": 21.54,
-      "rf": 7.75,
+      "lineal": 13.83,
+      "rf": 6.86,
       "err_naive": 3.35,
-      "err_rf": 1.31,
+      "err_rf": 0.42,
       "P_lag1": 0.63,
       "P_lag12": 13.95,
-      "Tmedia_lag1": 10.99,
-      "Amp_lag1": 20.87
+      "Tmedia_lag1": 10.47,
+      "Amp_lag1": 13.52
     },
     {
       "fecha": "2024-10",
@@ -1451,14 +1451,14 @@
       "temporada": "Seca (Abr–Oct)",
       "observado": 23.92,
       "naive": 51.07,
-      "lineal": 47.93,
-      "rf": 49.53,
+      "lineal": 45.05,
+      "rf": 47.8,
       "err_naive": 27.15,
-      "err_rf": 25.61,
+      "err_rf": 23.88,
       "P_lag1": 6.44,
       "P_lag12": 39.23,
-      "Tmedia_lag1": 12.51,
-      "Amp_lag1": 18.24
+      "Tmedia_lag1": 11.26,
+      "Amp_lag1": 12.69
     },
     {
       "fecha": "2024-11",
@@ -1468,14 +1468,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 160.73,
       "naive": 91.1,
-      "lineal": 92.4,
-      "rf": 83.85,
+      "lineal": 96.48,
+      "rf": 93.96,
       "err_naive": -69.63,
-      "err_rf": -76.88,
+      "err_rf": -66.77,
       "P_lag1": 23.92,
       "P_lag12": 122.7,
-      "Tmedia_lag1": 13.9,
-      "Amp_lag1": 16.09
+      "Tmedia_lag1": 10.99,
+      "Amp_lag1": 11.92
     },
     {
       "fecha": "2024-12",
@@ -1485,14 +1485,14 @@
       "temporada": "Húmeda (Nov–Mar)",
       "observado": 115.75,
       "naive": 118.5,
-      "lineal": 146.37,
-      "rf": 141.56,
+      "lineal": 152.97,
+      "rf": 136.95,
       "err_naive": 2.75,
-      "err_rf": 25.81,
+      "err_rf": 21.2,
       "P_lag1": 160.73,
       "P_lag12": 199.11,
-      "Tmedia_lag1": 14.55,
-      "Amp_lag1": 15.19
+      "Tmedia_lag1": 9.61,
+      "Amp_lag1": 11.45
     }
   ],
   "simulador": {
@@ -1523,22 +1523,22 @@
     "lineal": {
       "intercept": 60.9173,
       "coefs": [
-        5.2216,
-        0.3327,
-        -5.3363,
-        11.6302,
-        -9.7987,
-        10.2036,
-        36.9435,
-        42.8077
+        5.0285,
+        -1.4915,
+        -9.3715,
+        14.8248,
+        -2.2248,
+        -1.1061,
+        24.8011,
+        29.4978
       ],
       "mean": [
         60.8181,
         60.6936,
         60.6886,
         60.3735,
-        12.6733,
-        16.6282,
+        9.086,
+        11.2469,
         -0.0012,
         -0.0021
       ],
@@ -1547,8 +1547,8 @@
         60.2949,
         60.2941,
         60.052,
-        1.6221,
-        3.625,
+        0.7635,
+        1.1912,
         0.7075,
         0.7067
       ]
